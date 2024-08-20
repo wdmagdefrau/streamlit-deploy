@@ -6,5 +6,5 @@ st.set_page_config(
     layout="wide"
 )
 
-st.header("Hi, welcome!")
+st.header("Hi, welome!")
 st.subheader("This is your Amazon Web Services (AWS) Streamlit deployment!", divider="rainbow")
